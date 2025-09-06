@@ -19,7 +19,7 @@
         <lombok.version>1.18.8</lombok.version>
         <io.qameta.allure>2.11.0</io.qameta.allure>
         <org.assertj>3.13.2</org.assertj>
-        <io.github.bonigarcia>3.7.1</io.github.bonigarcia>
+        <io.github.bonigarcia>6.1.0</io.github.bonigarcia>
         <com.github.javafaker>1.0.0</com.github.javafaker>
         <java.version>1.8</java.version>
     </properties>
